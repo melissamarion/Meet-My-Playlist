@@ -6,11 +6,10 @@ const App = () => {
       <h1>Meet My Playlist</h1>
       <h2>User 1</h2>
       <input type="text" />
+      <button>Is it a match?</button>
       <h2>User 2</h2>
       <input type="text" />
-      <h3>Will I see you at the show!?</h3>
-      <h3>YES</h3>
-      <h3>NO</h3>
+      <button>Is it a match?</button>
     </div>
   )
 }
