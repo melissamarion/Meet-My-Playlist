@@ -230,49 +230,36 @@
 
 
   },
-  {"id":  ,
-  "genre": ,
-  "title": ,
-  "songs": ,
-  "song titles": ,
-  "isListeningto": ,
+  {"id": 21,
+  "genre": "Apple Music Metal",
+  "title": "70s Metal Essentials",
+  "songs": 89,
+  "song titles": "Paranoid, Hell Bent For Leather, Don't Fear The Reaper, Kashmir, Schools Out, Back In The Saddle, The Boys Are Back In Town, Man On The Silver Mountain, Smoke On The Water, Fly By Night, Strutter, Im Eighteen, Iron Man, Ride The Sky, The Green Manalishi, Wicked Woman, Working Man, Toys In The Attic, Godzilla Suicide, Motorhead, Lions Christians, The Time Is Right For Love, Highway Star, War Pigs Lukes Wall, Stargazer, Under My Wheels, 21st Century Schizoid Man, Hush, Jailbreak, Doctor Doctor, Victim Of Changes, Always Somewhere, Sweet Leaf, LIghts Out, Cold Gin, In Trance, Mama Kin, Hoochie Koochie Lady, Bomber, Long Live Rock N Roll, Too Hot To Handle, The Wizard, The Ripper, No More Mr. Nice Guy, The Sails Of Charon, Blue My Mind, White Line Fever, Hotter Than Hell, Children Of The Grave, Dead Men Tell No Tales, Career Of Evil, Starlight Starbright, Red, Exciter, Starstruck, Crash Course In Brain Surgery, Welcome To My Nightmare, Immigrant Song, Kingdom Come, Sabbath Bloody Sabbath, Easy Livin, Better By You Better Than Me, Overkill, Guts, Roisin Dubh, God Of Thunder, Im Goin Mad, Rock Bottom, Look At Yourself, Snowblind, Black Cloud, Mean Business, Damage Case Ballad Of Dwight Fry, Death Walks Behind You, Sinner, Seasons Of Wither, Kill The King, When The Wolf Sits, Suicide, Black Sabbath Rocking Man, Larks Tongues In Aspic Pt 1, After The Storm, Atomic Bobms Away, Sunrise, SAd Born Loser, Hell Hound,",
+  "isListeningto": false,
 
 
 
 
 
   },
-  {"id":  ,
-  "genre": ,
-  "title": ,
-  "songs": ,
-  "song titles": ,
-  "isListeningto": ,
+  {"id": 22,
+  "genre": "Apple Music Metal",
+  "title": "70s Metal Essentials",
+  "songs": 89,
+  "song titles": "Paranoid, Hell Bent For Leather, Don't Fear The Reaper, Kashmir, Schools Out, Back In The Saddle, The Boys Are Back In Town, Man On The Silver Mountain, Smoke On The Water, Fly By Night, Strutter, Im Eighteen, Iron Man, Ride The Sky, The Green Manalishi, Wicked Woman, Working Man, Toys In The Attic, Godzilla Suicide, Motorhead, Lions Christians, The Time Is Right For Love, Highway Star, War Pigs Lukes Wall, Stargazer, Under My Wheels, 21st Century Schizoid Man, Hush, Jailbreak, Doctor Doctor, Victim Of Changes, Always Somewhere, Sweet Leaf, LIghts Out, Cold Gin, In Trance, Mama Kin, Hoochie Koochie Lady, Bomber, Long Live Rock N Roll, Too Hot To Handle, The Wizard, The Ripper, No More Mr. Nice Guy, The Sails Of Charon, Blue My Mind, White Line Fever, Hotter Than Hell, Children Of The Grave, Dead Men Tell No Tales, Career Of Evil, Starlight Starbright, Red, Exciter, Starstruck, Crash Course In Brain Surgery, Welcome To My Nightmare, Immigrant Song, Kingdom Come, Sabbath Bloody Sabbath, Easy Livin, Better By You Better Than Me, Overkill, Guts, Roisin Dubh, God Of Thunder, Im Goin Mad, Rock Bottom, Look At Yourself, Snowblind, Black Cloud, Mean Business, Damage Case Ballad Of Dwight Fry, Death Walks Behind You, Sinner, Seasons Of Wither, Kill The King, When The Wolf Sits, Suicide, Black Sabbath Rocking Man, Larks Tongues In Aspic Pt 1, After The Storm, Atomic Bobms Away, Sunrise, SAd Born Loser, Hell Hound,",
+  "isListeningto": true,
 
 
 
 
 
   },
-  {"id":  ,
-  "genre": ,
-  "title": ,
-  "songs": ,
-  "song titles": ,
-  "isListeningto": ,
-
-
-
-
-
-
-  },
-  {"id":  ,
-  "genre": ,
-  "title": ,
-  "songs": ,
-  "song titles": ,
-  "isListeningto": ,
+  {"id": 23,
+  "genre": "Apple Music Oldies",
+  "title": "50s R And B Essentials",
+  "songs": 50,
+  "song titles": "Whatd I Say Pts 1 And 2, Blueberry Hill, Hound Dog, Bo Diddley, Fever, I Love You For Sentimental Reasons, The Great Pretender, The Book Of Love, Come Go With Me, Flip Flop And Fly, In The Still Of The Night, Sort Fat Fannie, Try Me, Double Crossing Blues, Let The Four Winds Blow, My Country Man, Tears On My Pillow, Get A Job, When You Dance, Play It Fair, Why Do Fools Fall In Love, Lonely Teardrops, Lawdy Miss Clawdy, Twilight Time, Sea Cruise, Rockin Blues, Its Just A Matter Of Time, 5-10-15 Hours, Dont You Just Know It, Juke, Roll With Me Henry, Serchin, Blue Light Boogie Pt 1 And 2, I Got Loaded, Cupids Boogie, I hear You Knockin, Aint That A Shame, Dont Be Angry, Only You, Sind Me Some Lovin, Ill Be True, Rag Mop, Chica Boo, Anytime Anyplace Anywhere, Drown In My Own Tears, Moodys Mood For Love, Dady Rollin Stone, Im Walkin, The Wind, There Goes My Baby",
+  "isListeningto": false,
 
 
 
@@ -280,12 +267,25 @@
 
 
   },
-  {"id":  ,
-  "genre": ,
-  "title": ,
-  "songs": ,
-  "song titles": ,
-  "isListeningto": ,
+  {"id": 24,
+  "genre": "Apple Music Oldies",
+  "title": "50s R And B Essentials",
+  "songs": 50,
+  "song titles": "Whatd I Say Pts 1 And 2, Blueberry Hill, Hound Dog, Bo Diddley, Fever, I Love You For Sentimental Reasons, The Great Pretender, The Book Of Love, Come Go With Me, Flip Flop And Fly, In The Still Of The Night, Sort Fat Fannie, Try Me, Double Crossing Blues, Let The Four Winds Blow, My Country Man, Tears On My Pillow, Get A Job, When You Dance, Play It Fair, Why Do Fools Fall In Love, Lonely Teardrops, Lawdy Miss Clawdy, Twilight Time, Sea Cruise, Rockin Blues, Its Just A Matter Of Time, 5-10-15 Hours, Dont You Just Know It, Juke, Roll With Me Henry, Serchin, Blue Light Boogie Pt 1 And 2, I Got Loaded, Cupids Boogie, I hear You Knockin, Aint That A Shame, Dont Be Angry, Only You, Sind Me Some Lovin, Ill Be True, Rag Mop, Chica Boo, Anytime Anyplace Anywhere, Drown In My Own Tears, Moodys Mood For Love, Dady Rollin Stone, Im Walkin, The Wind, There Goes My Baby",
+  "isListeningto": true,
+
+
+
+
+
+
+  },
+  {"id": 25,
+  "genre": "Various Artists",
+  "title": "The Best Of Sun Rockabilly",
+  "songs": 22,
+  "song titles": "Love My Baby, Red Hot, We Wanna Boobie, Come On Little Mama, Right Behind You Baby, Ubangis Stomp, Lets Bop, Rabbit Action, Put Your Cat Clothes On, Rockin With My Baby, Ten Cats Down, Jamp Right Out Of This Juke, Gonna Romp And Stomp, Domino, Rakin And Scrapin, Slow Down, Red Cadillac And A Black Moustache, Break Up, Greenback Dollar Watch, Red Headed Woman, Flyin Saucers Rock N Roll, Crawdad Song",
+  "isListeningto": false,
 
 
 
@@ -294,13 +294,12 @@
 
 
   },
-  {"id":  ,
-  "genre": ,
-  "title": ,
-  "songs": ,
-  "song titles": ,
-  "isListeningto": ,
-
+  {"id": 26,
+  "genre": "Various Artists",
+  "title": "The Best Of Sun Rockabilly",
+  "songs": 22,
+  "song titles": "Love My Baby, Red Hot, We Wanna Boobie, Come On Little Mama, Right Behind You Baby, Ubangis Stomp, Lets Bop, Rabbit Action, Put Your Cat Clothes On, Rockin With My Baby, Ten Cats Down, Jamp Right Out Of This Juke, Gonna Romp And Stomp, Domino, Rakin And Scrapin, Slow Down, Red Cadillac And A Black Moustache, Break Up, Greenback Dollar Watch, Red Headed Woman, Flyin Saucers Rock N Roll, Crawdad Song",
+  "isListeningto": true,
 
 
 
