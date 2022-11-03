@@ -1,23 +1,13 @@
 import './App.css'
-import Song from './Components/Songs.js'
+import PlayList from './Components/PlayList.js'
 
 const App = () => {
   return (
     <div>
-      <Song />
-      <Song />
-      <Song />
-      <Song />
-      <Song />
-      <Song />
-      <Song />
-      {/* <h1>Meet My Playlist</h1>
-      <h2>User 1</h2>
-      <input type="text" />
-      <button>Is it a match?</button>
-      <h2>User 2</h2>
-      <input type="text" />
-      <button>Is it a match?</button> */}
+      <PlayList text="Genre:" />
+      <PlayList text="Title:" />
+      <PlayList text="Count:" />
+      <PlayList text="Song:" />
     </div>
   )
 }
