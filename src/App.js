@@ -8,11 +8,7 @@ const App = () => {
   return (
     <div>
       <h1>Meet My Playlist</h1>
-
-      <PlayList text="Genre:" />
-      <PlayList text="Title:" />
-      <PlayList text="Count:" />
-      <PlayList text="Song:" />
+      <PlayList />
       <SideBar />
       <Main />
       <Footer />
