@@ -5,5 +5,3 @@ const wordsArray = [
 const result = wordsArray.map((word) => {
   return word + '!'
 })
-
-console.log(result)

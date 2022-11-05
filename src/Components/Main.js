@@ -1,7 +1,7 @@
 const Main = () => {
   return (
     <div className="main">
-      <h1>Titles</h1>
+      <h1>Favorites</h1>
     </div>
   )
 }
