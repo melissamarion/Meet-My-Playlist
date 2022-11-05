@@ -1,7 +1,7 @@
 const Main = () => {
   return (
     <div className="main">
-      <h1>Favorites</h1>
+      <h1>Favorite Songs</h1>
     </div>
   )
 }

@@ -6,8 +6,7 @@ import Footer from './Components/Footer.js'
 
 const App = () => {
   return (
-    <div>
-      <h1>Meet My Playlist</h1>
+    <div className="flex-row">
       <PlayList />
       <SideBar />
       <Main />
