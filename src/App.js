@@ -1,5 +1,5 @@
 import './App.css'
-import music from './data.json'
+import songs from './data.json'
 import PlayList from './Components/PlayList.js'
 import SideBar from './Components/SideBar.js'
 import Main from './Components/Main.js'
@@ -11,7 +11,7 @@ const App = () => {
     <div className="flex-row">
       <PlayList />
       <SideBar />
-      <Main />
+      <Main songs={songs} />
       <Footer />
     </div>
   )

@@ -1,22 +1,23 @@
 { 
-  "music": [
+  "songs": [
    
   {
   "genre": "Apple Music Alternative",
-    "title": "Courtney Barnett Essentials",
-    "songs": 20,
-    "song titles": "Avant Gardener, If I Don't Hear From You, Pedestrian At Best, Need A Little Time, Rae Street, Over Everything, Depreston, Nameless Faceless, Write A List of Things To Look Forward To, Elevator Operator, City Looks Pretty, Before You Gotta Go, Nobody Really Cares If You Don't, History Eraser, Smile Real Nice, Continental Breakfast, Everybody Here Hates You, Pickles From The Jar, An Illustration Of Loneliness, Dead Fox",
-    "isListeningto": false
+  "title": "Courtney Barnett Essentials",
+  "count": 20,
+  "names":
+  "Avant Gardener, If I Don't Hear From You, Pedestrian At Best, Need A Little Time, Rae Street, Over Everything, Depreston, Nameless Faceless, Write A List of Things To Look Forward To, Elevator Operator, City Looks Pretty, Before You Gotta Go, Nobody Really Cares If You Don't, History Eraser, Smile Real Nice, Continental Breakfast, Everybody Here Hates You, Pickles From The Jar, An Illustration Of Loneliness, Dead Fox",
+  "isListeningto": false
   },
 
 
   {
-    "genre": "Apple Music Alternative",
-      "title": "Courtney Barnett Essentials",
-      "songs": 20,
-      "song titles": "Avant Gardener, If I Don't Hear From You, Pedestrian At Best, Need A Little Time, Rae Street, Over Everything, Depreston, Nameless Faceless, Write A List of Things To Look Forward To, Elevator Operator, City Looks Pretty, Before You Gotta Go, Nobody Really Cares If You Don't, History Eraser, Smile Real Nice, Continental Breakfast, Everybody Here Hates You, Pickles From The Jar, An Illustration Of Loneliness, Dead Fox",
-      "isListeningto": true
-    },
+  "genre": "Apple Music Alternative",
+  "title": "Courtney Barnett Essentials",
+  "count": 20,
+  "names": "Avant Gardener, If I Don't Hear From You, Pedestrian At Best, Need A Little Time, Rae Street, Over Everything, Depreston, Nameless Faceless, Write A List of Things To Look Forward To, Elevator Operator, City Looks Pretty, Before You Gotta Go, Nobody Really Cares If You Don't, History Eraser, Smile Real Nice, Continental Breakfast, Everybody Here Hates You, Pickles From The Jar, An Illustration Of Loneliness, Dead Fox",
+  "isListeningto": true
+  },
 
 
   
@@ -24,8 +25,8 @@
   {
   "genre": "Apple Music Punk",
   "title": "Psychobilly Essentials",
-  "songs": 48,
-  "song titles": "Human Fly, Psychobilly Freakout, Miss Take, Outlaw Heart, Ride The Torpedo, Who Killed The Cheerleader, The Bottle Called, Wreckin Crew, Bodies In The Basement, King Rat, My Curse, Werewolves, Werewolf Boogie, Gravedigger Rock, Walk Like A Zombie, Way I Walk, Zombies Ate Her Brain, Freaks Come Out, 9 Lives, The Bug Of Planet Zee, Dancing With The Devil, In The Orchard, Horny In A Hearse, Rock N Roll Zombie, Death Row, Psychobilly, Psycho For Your Love, The Dead Don't Get Older, Rockin Coffin Bar, Bloodstains, Track 07, 1000 Kats, C.O.CK.R.O.A.C.H.E.S, My Girl, Transsylvanian Express, I Was A Teenage Werewolf, Its Martini Time, Thelma And Louise, Psychobilly Stomp, Take A Razor To Your Head, Graveyard Tree, California Hell, Kicking Satan Out Of Hell, Skeleton Swamp, Dead Moon, Bikini Girls With Machine Guns, Kiss Me Now, Like The Wolf That Howls",
+  "count": 48,
+  "names": "Human Fly, Psychobilly Freakout, Miss Take, Outlaw Heart, Ride The Torpedo, Who Killed The Cheerleader, The Bottle Called, Wreckin Crew, Bodies In The Basement, King Rat, My Curse, Werewolves, Werewolf Boogie, Gravedigger Rock, Walk Like A Zombie, Way I Walk, Zombies Ate Her Brain, Freaks Come Out, 9 Lives, The Bug Of Planet Zee, Dancing With The Devil, In The Orchard, Horny In A Hearse, Rock N Roll Zombie, Death Row, Psychobilly, Psycho For Your Love, The Dead Don't Get Older, Rockin Coffin Bar, Bloodstains, Track 07, 1000 Kats, C.O.CK.R.O.A.C.H.E.S, My Girl, Transsylvanian Express, I Was A Teenage Werewolf, Its Martini Time, Thelma And Louise, Psychobilly Stomp, Take A Razor To Your Head, Graveyard Tree, California Hell, Kicking Satan Out Of Hell, Skeleton Swamp, Dead Moon, Bikini Girls With Machine Guns, Kiss Me Now, Like The Wolf That Howls",
   "isListeningto": false
   },
 
@@ -34,8 +35,8 @@
   {
   "genre": "Apple Music Punk",
   "title": "Psychobilly Essentials",
-  "songs": 48,
-  "song titles": "Human Fly, Psychobilly Freakout, Miss Take, Outlaw Heart, Ride The Torpedo, Who Killed The Cheerleader, The Bottle Called, Wreckin Crew, Bodies In The Basement, King Rat, My Curse, Werewolves, Werewolf Boogie, Gravedigger Rock, Walk Like A Zombie, Way I Walk, Zombies Ate Her Brain, Freaks Come Out, 9 Lives, The Bug Of Planet Zee, Dancing With The Devil, In The Orchard, Horny In A Hearse, Rock N Roll Zombie, Death Row, Psychobilly, Psycho For Your Love, The Dead Don't Get Older, Rockin Coffin Bar, Bloodstains, Track 07, 1000 Kats, C.O.CK.R.O.A.C.H.E.S, My Girl, Transsylvanian Express, I Was A Teenage Werewolf, Its Martini Time, Thelma And Louise, Psychobilly Stomp, Take A Razor To Your Head, Graveyard Tree, California Hell, Kicking Satan Out Of Hell, Skeleton Swamp, Dead Moon, Bikini Girls With Machine Guns, Kiss Me Now, Like The Wolf That Howls",
+  "count": 48,
+  "names": "Human Fly, Psychobilly Freakout, Miss Take, Outlaw Heart, Ride The Torpedo, Who Killed The Cheerleader, The Bottle Called, Wreckin Crew, Bodies In The Basement, King Rat, My Curse, Werewolves, Werewolf Boogie, Gravedigger Rock, Walk Like A Zombie, Way I Walk, Zombies Ate Her Brain, Freaks Come Out, 9 Lives, The Bug Of Planet Zee, Dancing With The Devil, In The Orchard, Horny In A Hearse, Rock N Roll Zombie, Death Row, Psychobilly, Psycho For Your Love, The Dead Don't Get Older, Rockin Coffin Bar, Bloodstains, Track 07, 1000 Kats, C.O.CK.R.O.A.C.H.E.S, My Girl, Transsylvanian Express, I Was A Teenage Werewolf, Its Martini Time, Thelma And Louise, Psychobilly Stomp, Take A Razor To Your Head, Graveyard Tree, California Hell, Kicking Satan Out Of Hell, Skeleton Swamp, Dead Moon, Bikini Girls With Machine Guns, Kiss Me Now, Like The Wolf That Howls",
   "isListeningto": true
   },
 
@@ -44,8 +45,8 @@
   {
   "genre": "Apple Music Country",
   "title": "Hank Williams Essentials",
-  "songs": 25,
-  "song titles": "Lovesick Blues, Your Cheatin Heart, Jambalaya, Im So Lonesome I Could Cry, Hey Good Lookin, Cold Cold Heart, Limehouse Blues, Move It On Over, I Saw The Light, Kaw-Liga, I Cant Help It, Lost Highway, Long Gone Lonesome Blues, Mind Your Own Business, My Buckets Got A Hole In It, Take These Chains From My Heart, Lonesome Whistle, A Mansion On The Hill,  Honky Tonkin, Why Dont You Love Me, You Win Again, Half As Much, Moanin The Blues, Howlin At The Moon, Ill Never Get Out Of This World Alive,",
+  "count": 25,
+  "names": "Lovesick Blues, Your Cheatin Heart, Jambalaya, Im So Lonesome I Could Cry, Hey Good Lookin, Cold Cold Heart, Limehouse Blues, Move It On Over, I Saw The Light, Kaw-Liga, I Cant Help It, Lost Highway, Long Gone Lonesome Blues, Mind Your Own Business, My Buckets Got A Hole In It, Take These Chains From My Heart, Lonesome Whistle, A Mansion On The Hill,  Honky Tonkin, Why Dont You Love Me, You Win Again, Half As Much, Moanin The Blues, Howlin At The Moon, Ill Never Get Out Of This World Alive,",
   "isListeningto": false
   },
 
@@ -54,8 +55,8 @@
   {
   "genre": "Apple Music Country",
   "title": "Hank Williams Essentials",
-  "songs": 25,
-  "song titles": "Lovesick Blues, Your Cheatin Heart, Jambalaya, Im So Lonesome I Could Cry, Hey Good Lookin, Cold Cold Heart, Limehouse Blues, Move It On Over, I Saw The Light, Kaw-Liga, I Cant Help It, Lost Highway, Long Gone Lonesome Blues, Mind Your Own Business, My Buckets Got A Hole In It, Take These Chains From My Heart, Lonesome Whistle, A Mansion On The Hill,  Honky Tonkin, Why Dont You Love Me, You Win Again, Half As Much, Moanin The Blues, Howlin At The Moon, Ill Never Get Out Of This World Alive,",
+  "count": 25,
+  "names": "Lovesick Blues, Your Cheatin Heart, Jambalaya, Im So Lonesome I Could Cry, Hey Good Lookin, Cold Cold Heart, Limehouse Blues, Move It On Over, I Saw The Light, Kaw-Liga, I Cant Help It, Lost Highway, Long Gone Lonesome Blues, Mind Your Own Business, My Buckets Got A Hole In It, Take These Chains From My Heart, Lonesome Whistle, A Mansion On The Hill,  Honky Tonkin, Why Dont You Love Me, You Win Again, Half As Much, Moanin The Blues, Howlin At The Moon, Ill Never Get Out Of This World Alive,",
   "isListeningto": true
   },
 
@@ -64,8 +65,8 @@
   {
   "genre": "Apple Music 80s",
   "title": "80s Hits Essentials",
-  "songs": 106,
-  "song titles": "Africa, Pour Some Sugar On Me, Break My Stride, My Prerogative, Take On Me, Careless Whisper, Billie Jean, Karma Chameleon, Like A Virgin, 1999, Sweet Dreams, I Cant Go For That, Hungry Like The Wolf, Super Freak, Eye Of The Tiger, Love Shack, Jessies Girl, Lets Go Crazy, She Blinded Me With Science, Old Time Rock And Roll, Dancing In The Dark, Faith, Call Me, Nothing Compares 2 U, Caribbean Queen, Time Waits For No One, Love Is A Battlefield, Walking On Sunshine, Sunglasses At Night, Footloose, Ghostbusters, The Power Of Love, Voices Carry, The Bird, Jack And Diane, Gloria, Little Red Corvette, Shout, Venus, Dancing With Myself, Down Under, Wake Me Up Before You Go-Go, Dont You Want Me, Whip It, You Might Think, Manic Monday, Electric Avenue, Centerfold, Come On Eileen, Major Tom The Neverending Story, Tainted Love, Harden My Heart, Rock This Town, 99 Luftballons, Our House, When Doves Cry, Everybody Have Fun Tonight, Jungle Love, Dont You, The Stroke, Working For The Weekend, All Out Of Love, 867-5309 Jenny, Raspberry Beret, Der Kommissar, Walk Like An Egyptian, I Still Havent Found What Im Looking For, Total Eclipse Of The Heart, Girls Just Want To Have Fun, Video Killed The Radio Star, Words, Weird Science, The Look Of Love, Just The Two Of Us, Bette Davis Eyes, Father Figure, In The Air Tonight, Keep On Loving You, Purple Rain, Jungle Love, I Want Candy, You Dropped A Bomb On Me, One Thing Leads To Another, Twilight Zone, Always Something There, Addicted To Love, Don't Worry Be Happy, Heaven, Holding Back The Years, I Want To Know What Love Is, Im So Excited, If You Leave, Livin On a Prayer, Missing You, Never Gonna Give You Up, Only In My Dreams, Lets Hear It For The Boy, Owner Of A Lonely Heart, Sweet Child O Mine, Walk This Way, Right Here Waiting, We Built This City, Hold On Loosely, What You Need, You Spin Me Around,",
+  "count": 106,
+  "names": "Africa, Pour Some Sugar On Me, Break My Stride, My Prerogative, Take On Me, Careless Whisper, Billie Jean, Karma Chameleon, Like A Virgin, 1999, Sweet Dreams, I Cant Go For That, Hungry Like The Wolf, Super Freak, Eye Of The Tiger, Love Shack, Jessies Girl, Lets Go Crazy, She Blinded Me With Science, Old Time Rock And Roll, Dancing In The Dark, Faith, Call Me, Nothing Compares 2 U, Caribbean Queen, Time Waits For No One, Love Is A Battlefield, Walking On Sunshine, Sunglasses At Night, Footloose, Ghostbusters, The Power Of Love, Voices Carry, The Bird, Jack And Diane, Gloria, Little Red Corvette, Shout, Venus, Dancing With Myself, Down Under, Wake Me Up Before You Go-Go, Dont You Want Me, Whip It, You Might Think, Manic Monday, Electric Avenue, Centerfold, Come On Eileen, Major Tom The Neverending Story, Tainted Love, Harden My Heart, Rock This Town, 99 Luftballons, Our House, When Doves Cry, Everybody Have Fun Tonight, Jungle Love, Dont You, The Stroke, Working For The Weekend, All Out Of Love, 867-5309 Jenny, Raspberry Beret, Der Kommissar, Walk Like An Egyptian, I Still Havent Found What Im Looking For, Total Eclipse Of The Heart, Girls Just Want To Have Fun, Video Killed The Radio Star, Words, Weird Science, The Look Of Love, Just The Two Of Us, Bette Davis Eyes, Father Figure, In The Air Tonight, Keep On Loving You, Purple Rain, Jungle Love, I Want Candy, You Dropped A Bomb On Me, One Thing Leads To Another, Twilight Zone, Always Something There, Addicted To Love, Don't Worry Be Happy, Heaven, Holding Back The Years, I Want To Know What Love Is, Im So Excited, If You Leave, Livin On a Prayer, Missing You, Never Gonna Give You Up, Only In My Dreams, Lets Hear It For The Boy, Owner Of A Lonely Heart, Sweet Child O Mine, Walk This Way, Right Here Waiting, We Built This City, Hold On Loosely, What You Need, You Spin Me Around,",
   "isListeningto": false
   },
 
@@ -77,8 +78,8 @@
   {
   "genre": "Apple Music 80s",
   "title": "80s Hits Essentials",
-  "songs": 106,
-  "song titles": "Africa, Pour Some Sugar On Me, Break My Stride, My Prerogative, Take On Me, Careless Whisper, Billie Jean, Karma Chameleon, Like A Virgin, 1999, Sweet Dreams, I Cant Go For That, Hungry Like The Wolf, Super Freak, Eye Of The Tiger, Love Shack, Jessies Girl, Lets Go Crazy, She Blinded Me With Science, Old Time Rock And Roll, Dancing In The Dark, Faith, Call Me, Nothing Compares 2 U, Caribbean Queen, Time Waits For No One, Love Is A Battlefield, Walking On Sunshine, Sunglasses At Night, Footloose, Ghostbusters, The Power Of Love, Voices Carry, The Bird, Jack And Diane, Gloria, Little Red Corvette, Shout, Venus, Dancing With Myself, Down Under, Wake Me Up Before You Go-Go, Dont You Want Me, Whip It, You Might Think, Manic Monday, Electric Avenue, Centerfold, Come On Eileen, Major Tom The Neverending Story, Tainted Love, Harden My Heart, Rock This Town, 99 Luftballons, Our House, When Doves Cry, Everybody Have Fun Tonight, Jungle Love, Dont You, The Stroke, Working For The Weekend, All Out Of Love, 867-5309 Jenny, Raspberry Beret, Der Kommissar, Walk Like An Egyptian, I Still Havent Found What Im Looking For, Total Eclipse Of The Heart, Girls Just Want To Have Fun, Video Killed The Radio Star, Words, Weird Science, The Look Of Love, Just The Two Of Us, Bette Davis Eyes, Father Figure, In The Air Tonight, Keep On Loving You, Purple Rain, Jungle Love, I Want Candy, You Dropped A Bomb On Me, One Thing Leads To Another, Twilight Zone, Always Something There, Addicted To Love, Don't Worry Be Happy, Heaven, Holding Back The Years, I Want To Know What Love Is, Im So Excited, If You Leave, Livin On a Prayer, Missing You, Never Gonna Give You Up, Only In My Dreams, Lets Hear It For The Boy, Owner Of A Lonely Heart, Sweet Child O Mine, Walk This Way, Right Here Waiting, We Built This City, Hold On Loosely, What You Need, You Spin Me Around,",
+  "count": 106,
+  "names": "Africa, Pour Some Sugar On Me, Break My Stride, My Prerogative, Take On Me, Careless Whisper, Billie Jean, Karma Chameleon, Like A Virgin, 1999, Sweet Dreams, I Cant Go For That, Hungry Like The Wolf, Super Freak, Eye Of The Tiger, Love Shack, Jessies Girl, Lets Go Crazy, She Blinded Me With Science, Old Time Rock And Roll, Dancing In The Dark, Faith, Call Me, Nothing Compares 2 U, Caribbean Queen, Time Waits For No One, Love Is A Battlefield, Walking On Sunshine, Sunglasses At Night, Footloose, Ghostbusters, The Power Of Love, Voices Carry, The Bird, Jack And Diane, Gloria, Little Red Corvette, Shout, Venus, Dancing With Myself, Down Under, Wake Me Up Before You Go-Go, Dont You Want Me, Whip It, You Might Think, Manic Monday, Electric Avenue, Centerfold, Come On Eileen, Major Tom The Neverending Story, Tainted Love, Harden My Heart, Rock This Town, 99 Luftballons, Our House, When Doves Cry, Everybody Have Fun Tonight, Jungle Love, Dont You, The Stroke, Working For The Weekend, All Out Of Love, 867-5309 Jenny, Raspberry Beret, Der Kommissar, Walk Like An Egyptian, I Still Havent Found What Im Looking For, Total Eclipse Of The Heart, Girls Just Want To Have Fun, Video Killed The Radio Star, Words, Weird Science, The Look Of Love, Just The Two Of Us, Bette Davis Eyes, Father Figure, In The Air Tonight, Keep On Loving You, Purple Rain, Jungle Love, I Want Candy, You Dropped A Bomb On Me, One Thing Leads To Another, Twilight Zone, Always Something There, Addicted To Love, Don't Worry Be Happy, Heaven, Holding Back The Years, I Want To Know What Love Is, Im So Excited, If You Leave, Livin On a Prayer, Missing You, Never Gonna Give You Up, Only In My Dreams, Lets Hear It For The Boy, Owner Of A Lonely Heart, Sweet Child O Mine, Walk This Way, Right Here Waiting, We Built This City, Hold On Loosely, What You Need, You Spin Me Around,",
   "isListeningto": true
 
 
@@ -90,8 +91,8 @@
   {
   "genre": "Apple Music",
   "title": "Halloween Party",
-  "songs": 75,
-  "song titles": "Monster Mash, Somebodys Watching Me, Thriller, Spooky Scary Skeletons, This Is Halloween, Blinding Lights, Sweet Dreams, Ghostbusters, Disturbia, Bones, On Way Or Another, Dark Horse, Superstition, Love Potion Number Nine, Bad Moon Rising, The Munsters, Howlin For You, Bad Habits, Skeleton Sam, My Oh My, My Family, The Monster, Unholy, Graveyard, Oogie Boogies Song, Monsters, Werewolves Of London, Ghost, Bury A Friend, Abracadabra, Haunted Heart, Witchy Woman, Maneater, W.I.T.C.H., Bad Blood, The Reaper, I Put A Spell On You, The Time Warp, Track 25, Toxic, Psycho Killer, Freaking Me Out, I Want Candy, Spooky, Demons, Evil Ways, The Addams Family, Monster, Witchcraft, Ghost Of You, There Will Be Blood, Dead Mans Party, Season Of The Witch, Die For You, Enter Sandman, Dragula, Bloody Mary, She Blinded Me With Science, Halloweenie IV, You Make Me Feel Like Its Halloween, Calling All The Monsters, Raising Hell, Grim Grinning Ghosts, 2 Die 4, Devil Inside, Die First, Freaks Come Out At Night, Me And UR Ghost, Draculas Wedding, Hot Killer, It Aint Nuthin, Just Wanna Rock, A Nightmare On My Street, Levitating, Ghosts,",
+  "count": 75,
+  "names": "Monster Mash, Somebodys Watching Me, Thriller, Spooky Scary Skeletons, This Is Halloween, Blinding Lights, Sweet Dreams, Ghostbusters, Disturbia, Bones, On Way Or Another, Dark Horse, Superstition, Love Potion Number Nine, Bad Moon Rising, The Munsters, Howlin For You, Bad Habits, Skeleton Sam, My Oh My, My Family, The Monster, Unholy, Graveyard, Oogie Boogies Song, Monsters, Werewolves Of London, Ghost, Bury A Friend, Abracadabra, Haunted Heart, Witchy Woman, Maneater, W.I.T.C.H., Bad Blood, The Reaper, I Put A Spell On You, The Time Warp, Track 25, Toxic, Psycho Killer, Freaking Me Out, I Want Candy, Spooky, Demons, Evil Ways, The Addams Family, Monster, Witchcraft, Ghost Of You, There Will Be Blood, Dead Mans Party, Season Of The Witch, Die For You, Enter Sandman, Dragula, Bloody Mary, She Blinded Me With Science, Halloweenie IV, You Make Me Feel Like Its Halloween, Calling All The Monsters, Raising Hell, Grim Grinning Ghosts, 2 Die 4, Devil Inside, Die First, Freaks Come Out At Night, Me And UR Ghost, Draculas Wedding, Hot Killer, It Aint Nuthin, Just Wanna Rock, A Nightmare On My Street, Levitating, Ghosts,",
   "isListeningto": false
 
 
@@ -103,8 +104,8 @@
   {
   "genre": "Apple Music",
   "title": "Halloween Party",
-  "songs": 75,
-  "song titles": "Monster Mash, Somebodys Watching Me, Thriller, Spooky Scary Skeletons, This Is Halloween, Blinding Lights, Sweet Dreams, Ghostbusters, Disturbia, Bones, On Way Or Another, Dark Horse, Superstition, Love Potion Number Nine, Bad Moon Rising, The Munsters, Howlin For You, Bad Habits, Skeleton Sam, My Oh My, My Family, The Monster, Unholy, Graveyard, Oogie Boogies Song, Monsters, Werewolves Of London, Ghost, Bury A Friend, Abracadabra, Haunted Heart, Witchy Woman, Maneater, W.I.T.C.H., Bad Blood, The Reaper, I Put A Spell On You, The Time Warp, Track 25, Toxic, Psycho Killer, Freaking Me Out, I Want Candy, Spooky, Demons, Evil Ways, The Addams Family, Monster, Witchcraft, Ghost Of You, There Will Be Blood, Dead Mans Party, Season Of The Witch, Die For You, Enter Sandman, Dragula, Bloody Mary, She Blinded Me With Science, Halloweenie IV, You Make Me Feel Like Its Halloween, Calling All The Monsters, Raising Hell, Grim Grinning Ghosts, 2 Die 4, Devil Inside, Die First, Freaks Come Out At Night, Me And UR Ghost, Draculas Wedding, Hot Killer, It Aint Nuthin, Just Wanna Rock, A Nightmare On My Street, Levitating, Ghosts,",
+  "count": 75,
+  "names": "Monster Mash, Somebodys Watching Me, Thriller, Spooky Scary Skeletons, This Is Halloween, Blinding Lights, Sweet Dreams, Ghostbusters, Disturbia, Bones, On Way Or Another, Dark Horse, Superstition, Love Potion Number Nine, Bad Moon Rising, The Munsters, Howlin For You, Bad Habits, Skeleton Sam, My Oh My, My Family, The Monster, Unholy, Graveyard, Oogie Boogies Song, Monsters, Werewolves Of London, Ghost, Bury A Friend, Abracadabra, Haunted Heart, Witchy Woman, Maneater, W.I.T.C.H., Bad Blood, The Reaper, I Put A Spell On You, The Time Warp, Track 25, Toxic, Psycho Killer, Freaking Me Out, I Want Candy, Spooky, Demons, Evil Ways, The Addams Family, Monster, Witchcraft, Ghost Of You, There Will Be Blood, Dead Mans Party, Season Of The Witch, Die For You, Enter Sandman, Dragula, Bloody Mary, She Blinded Me With Science, Halloweenie IV, You Make Me Feel Like Its Halloween, Calling All The Monsters, Raising Hell, Grim Grinning Ghosts, 2 Die 4, Devil Inside, Die First, Freaks Come Out At Night, Me And UR Ghost, Draculas Wedding, Hot Killer, It Aint Nuthin, Just Wanna Rock, A Nightmare On My Street, Levitating, Ghosts,",
   "isListeningto": true
 
 
@@ -115,8 +116,8 @@
   {
   "genre": "Holiday",
   "title": "Punk Xmas",
-  "songs": 50,
-  "song titles": "Merry Christmas I Dont Want To Fight Tonight, I Wont Be Home For Christmas, Nothing For Christmas, Alone This Holiday, Hey Santa, God Rest Ye Merry Gentlemen, Merry Something To You, Christmas Lights, Well Call It Christmastime, There Aint No Sanity Clause, Wonderful Christmastime, All I Want For Christmas Is You, F**k Christmas, Christmassacre, Last Christmas, Oi To The World, Step Into Christmas, Silent Night, Little Drummer Boy, Punk Xmas, Please Come Home For Christmas, Youre A Mean One Mr Grinch, Let It Snow, Merry Christmas F**k You, Father Christmas, Nothing For Me, We Wish You a Merry Christmas, Angels We Have Heard On High, Cancel Christmas, Xmas Has Been Xed, Hooray For Santa Claus, Fairytale Of New York, Feliz Navi-Nada, Feliz Navidad, Hava Nagila, Merry Xmas Everybody, Fools Holiday, Christmas Medley, Yule Shoot Your Eye Out, Santa Claus Is Cummin, 12 Days Of A Pop-Punk Christmas, Drinkin Rum And Egg Nog, Frosty The Snowman, Jingle Bells, If Every Day Was Like Christmas, Merry Christmas Happy Holidays, The Snow Miser Song, Merry Christmas, Run Run Rudolph, White Christmas,",
+  "count": 50,
+  "names": "Merry Christmas I Dont Want To Fight Tonight, I Wont Be Home For Christmas, Nothing For Christmas, Alone This Holiday, Hey Santa, God Rest Ye Merry Gentlemen, Merry Something To You, Christmas Lights, Well Call It Christmastime, There Aint No Sanity Clause, Wonderful Christmastime, All I Want For Christmas Is You, F**k Christmas, Christmassacre, Last Christmas, Oi To The World, Step Into Christmas, Silent Night, Little Drummer Boy, Punk Xmas, Please Come Home For Christmas, Youre A Mean One Mr Grinch, Let It Snow, Merry Christmas F**k You, Father Christmas, Nothing For Me, We Wish You a Merry Christmas, Angels We Have Heard On High, Cancel Christmas, Xmas Has Been Xed, Hooray For Santa Claus, Fairytale Of New York, Feliz Navi-Nada, Feliz Navidad, Hava Nagila, Merry Xmas Everybody, Fools Holiday, Christmas Medley, Yule Shoot Your Eye Out, Santa Claus Is Cummin, 12 Days Of A Pop-Punk Christmas, Drinkin Rum And Egg Nog, Frosty The Snowman, Jingle Bells, If Every Day Was Like Christmas, Merry Christmas Happy Holidays, The Snow Miser Song, Merry Christmas, Run Run Rudolph, White Christmas,",
   "isListeningto": false
 
 
@@ -128,8 +129,8 @@
   {
   "genre": "Holiday",
   "title": "Punk Xmas",
-  "songs": 50,
-  "song titles": "Merry Christmas I Dont Want To Fight Tonight, I Wont Be Home For Christmas, Nothing For Christmas, Alone This Holiday, Hey Santa, God Rest Ye Merry Gentlemen, Merry Something To You, Christmas Lights, Well Call It Christmastime, There Aint No Sanity Clause, Wonderful Christmastime, All I Want For Christmas Is You, F**k Christmas, Christmassacre, Last Christmas, Oi To The World, Step Into Christmas, Silent Night, Little Drummer Boy, Punk Xmas, Please Come Home For Christmas, Youre A Mean One Mr Grinch, Let It Snow, Merry Christmas F**k You, Father Christmas, Nothing For Me, We Wish You a Merry Christmas, Angels We Have Heard On High, Cancel Christmas, Xmas Has Been Xed, Hooray For Santa Claus, Fairytale Of New York, Feliz Navi-Nada, Feliz Navidad, Hava Nagila, Merry Xmas Everybody, Fools Holiday, Christmas Medley, Yule Shoot Your Eye Out, Santa Claus Is Cummin, 12 Days Of A Pop-Punk Christmas, Drinkin Rum And Egg Nog, Frosty The Snowman, Jingle Bells, If Every Day Was Like Christmas, Merry Christmas Happy Holidays, The Snow Miser Song, Merry Christmas, Run Run Rudolph, White Christmas,",
+  "count": 50,
+  "names": "Merry Christmas I Dont Want To Fight Tonight, I Wont Be Home For Christmas, Nothing For Christmas, Alone This Holiday, Hey Santa, God Rest Ye Merry Gentlemen, Merry Something To You, Christmas Lights, Well Call It Christmastime, There Aint No Sanity Clause, Wonderful Christmastime, All I Want For Christmas Is You, F**k Christmas, Christmassacre, Last Christmas, Oi To The World, Step Into Christmas, Silent Night, Little Drummer Boy, Punk Xmas, Please Come Home For Christmas, Youre A Mean One Mr Grinch, Let It Snow, Merry Christmas F**k You, Father Christmas, Nothing For Me, We Wish You a Merry Christmas, Angels We Have Heard On High, Cancel Christmas, Xmas Has Been Xed, Hooray For Santa Claus, Fairytale Of New York, Feliz Navi-Nada, Feliz Navidad, Hava Nagila, Merry Xmas Everybody, Fools Holiday, Christmas Medley, Yule Shoot Your Eye Out, Santa Claus Is Cummin, 12 Days Of A Pop-Punk Christmas, Drinkin Rum And Egg Nog, Frosty The Snowman, Jingle Bells, If Every Day Was Like Christmas, Merry Christmas Happy Holidays, The Snow Miser Song, Merry Christmas, Run Run Rudolph, White Christmas,",
   "isListeningto": true
 
 
@@ -140,8 +141,8 @@
   {
   "genre": "Apple Music Pop",
   "title": "Madonna Essentials",
-  "songs": 40,
-  "song titles": "Vogue, Like A Prayer, Into The Groove, Music, Holiday, La Isla Bonita, Material Girl, Papa Dont Preach, Hung Up, Ray Of Light, Express Yourself, Like A Virgin, Open Your Heart, Borderline, Frozen, True Blue, Lucky Star, Cherish, 4 Minutes, Dress You Up, Take A Bow, Sorry, Dont Tell Me, Beautiful Stranger, Secret, Crazy For You, Whos That Girl, Live To Tell, The Power Of Good-Bye, Die Another Day, Deeper And Deeper, Justify My Love, American Life, Girl Gone Wild, Human Nature, Erotica, Youll See, Give It 2 Me, Angel, Oh Father,",
+  "count": 40,
+  "names": "Vogue, Like A Prayer, Into The Groove, Music, Holiday, La Isla Bonita, Material Girl, Papa Dont Preach, Hung Up, Ray Of Light, Express Yourself, Like A Virgin, Open Your Heart, Borderline, Frozen, True Blue, Lucky Star, Cherish, 4 Minutes, Dress You Up, Take A Bow, Sorry, Dont Tell Me, Beautiful Stranger, Secret, Crazy For You, Whos That Girl, Live To Tell, The Power Of Good-Bye, Die Another Day, Deeper And Deeper, Justify My Love, American Life, Girl Gone Wild, Human Nature, Erotica, Youll See, Give It 2 Me, Angel, Oh Father,",
   "isListeningto": false
 
 
@@ -152,8 +153,8 @@
   {
   "genre": "Apple Music Pop",
   "title": "Madonna Essentials",
-  "songs": 40,
-  "song titles": "Vogue, Like A Prayer, Into The Groove, Music, Holiday, La Isla Bonita, Material Girl, Papa Dont Preach, Hung Up, Ray Of Light, Express Yourself, Like A Virgin, Open Your Heart, Borderline, Frozen, True Blue, Lucky Star, Cherish, 4 Minutes, Dress You Up, Take A Bow, Sorry, Dont Tell Me, Beautiful Stranger, Secret, Crazy For You, Whos That Girl, Live To Tell, The Power Of Good-Bye, Die Another Day, Deeper And Deeper, Justify My Love, American Life, Girl Gone Wild, Human Nature, Erotica, Youll See, Give It 2 Me, Angel, Oh Father,",
+  "count": 40,
+  "names": "Vogue, Like A Prayer, Into The Groove, Music, Holiday, La Isla Bonita, Material Girl, Papa Dont Preach, Hung Up, Ray Of Light, Express Yourself, Like A Virgin, Open Your Heart, Borderline, Frozen, True Blue, Lucky Star, Cherish, 4 Minutes, Dress You Up, Take A Bow, Sorry, Dont Tell Me, Beautiful Stranger, Secret, Crazy For You, Whos That Girl, Live To Tell, The Power Of Good-Bye, Die Another Day, Deeper And Deeper, Justify My Love, American Life, Girl Gone Wild, Human Nature, Erotica, Youll See, Give It 2 Me, Angel, Oh Father,",
   "isListeningto": true
 
 
@@ -164,8 +165,8 @@
   {
   "genre": "Apple Music Hard Rock",
   "title": "AC/DC: Deep Cuts",
-  "songs": 30,
-  "song titles": "Aint No Fun, Witchs Spell, Thats The Way I WAnna Rock, WAr Machine, Flick Of The Switch, Baby Please Dont Go, Let Me Put My Love Into You, The Razors Edge, Beating Around The Bush, Get It Hot, What Do YOU Do For Money Honey, C.O.D., Black Ice, Love Hungry Man, Gone Shootin, Spoilin For A Fight, Rock N Roll Singer, Soul Stripper, Wild Reputation, Skies On Fire, Mistress For Christmas, Twos Up, Stormy May Day, Riff Raff, Show Business, Cold Hearted Man, This HOuse Is On Fire, Anything Goes, Crabsody In Blue, School Days,",
+  "count": 30,
+  "names": "Aint No Fun, Witchs Spell, Thats The Way I WAnna Rock, WAr Machine, Flick Of The Switch, Baby Please Dont Go, Let Me Put My Love Into You, The Razors Edge, Beating Around The Bush, Get It Hot, What Do YOU Do For Money Honey, C.O.D., Black Ice, Love Hungry Man, Gone Shootin, Spoilin For A Fight, Rock N Roll Singer, Soul Stripper, Wild Reputation, Skies On Fire, Mistress For Christmas, Twos Up, Stormy May Day, Riff Raff, Show Business, Cold Hearted Man, This HOuse Is On Fire, Anything Goes, Crabsody In Blue, School Days,",
   "isListeningto": false
 
 
@@ -176,8 +177,8 @@
   {
   "genre": "Apple Music Hard Rock",
   "title": "AC/DC: Deep Cuts",
-  "songs": 30,
-  "song titles": "Aint No Fun, Witchs Spell, Thats The Way I WAnna Rock, WAr Machine, Flick Of The Switch, Baby Please Dont Go, Let Me Put My Love Into You, The Razors Edge, Beating Around The Bush, Get It Hot, What Do YOU Do For Money Honey, C.O.D., Black Ice, Love Hungry Man, Gone Shootin, Spoilin For A Fight, Rock N Roll Singer, Soul Stripper, Wild Reputation, Skies On Fire, Mistress For Christmas, Twos Up, Stormy May Day, Riff Raff, Show Business, Cold Hearted Man, This HOuse Is On Fire, Anything Goes, Crabsody In Blue, School Days,",
+  "count": 30,
+  "names": "Aint No Fun, Witchs Spell, Thats The Way I WAnna Rock, WAr Machine, Flick Of The Switch, Baby Please Dont Go, Let Me Put My Love Into You, The Razors Edge, Beating Around The Bush, Get It Hot, What Do YOU Do For Money Honey, C.O.D., Black Ice, Love Hungry Man, Gone Shootin, Spoilin For A Fight, Rock N Roll Singer, Soul Stripper, Wild Reputation, Skies On Fire, Mistress For Christmas, Twos Up, Stormy May Day, Riff Raff, Show Business, Cold Hearted Man, This HOuse Is On Fire, Anything Goes, Crabsody In Blue, School Days,",
   "isListeningto": true
 
 
@@ -188,8 +189,8 @@
   {
   "genre": "Apple Music 90s",
   "title": "90s Hip-Hop Essentials",
-  "songs": 100,
-  "song titles": "Gin And Juice, Juicy, Hard Knock Life, If I Ruled The World, Doin It, The Rain, What Ya Want, Cant Nobody Hold Me Down, Electric Relaxation, Crush On You, Rosa Parks, Keep On Keepin On, Tonite, Thuggish Ruggish Bone, Shook Ones Pt II, Sound Of Da Police, Make Em Say Uhh, Ruff Ryders Anthem, Insane In The Brain, California Love, Back That Azz Up, Superthug, Hip Hop Hooray, 93 Til Infinity, Dont Sweat The Technique, Dwyck, The Choice Is Yours, Definition, Its All About The Benjamins, Woo Hah!! Got You All In Check, My Name Is, What They Do, I Used To Love H.E.R., Cell Therapy, Mind Playing Tricks On Me, Check The Rhime, Crossover, I Get Around, Fantastic Voyage, They Reminisce Over You, It Was A Good Day, Back In The Day, C.R.E.A.M., Come Clean, U.N.I.T.Y., I Got Cha Opin, Doo Wop, Whatta Man, Get Me Home, Southernplayalisticadillacmuzik, Captain Save A Hoe, Regulate, One Time Gaffled Em Up, Danger, Rebirth Of Slick, Slow Down, R.A.I.D., Whats Up Star, You Cant Play With My Yo-Yo, One More Chance, Ready Or Not, You Know My Steez, Ill Be There For You, O.P.P., Ms Fat Booty, The Most Beautifullest Thing In The World, Nothin But The Cavi Hit, 9th Wonder, Tried By 12, Liquid Swords, Bucktown, Times Up, Tonights Da Night, Put It On, Flow Joe, Getto Jam, I Got 5 On It, Nuthin But A G Thang, Respiration, Crooklyn, Runnin, Po Pimp, Hay, Brother Gonna Work It Out, Ice Cream, The World Is Yours, Proceed, You Never Knew, Mad Izm, Nappy Heads, Bonita Applebum, Keep Ya Head Up, This D.J., Dead Bent, Slam, Baby Got Back, Rump Shaker, Put Your Hands Where My Eyes Is, Keep Their Heads Ringin, Can I Get A...,",
+  "count": 100,
+  "names": "Gin And Juice, Juicy, Hard Knock Life, If I Ruled The World, Doin It, The Rain, What Ya Want, Cant Nobody Hold Me Down, Electric Relaxation, Crush On You, Rosa Parks, Keep On Keepin On, Tonite, Thuggish Ruggish Bone, Shook Ones Pt II, Sound Of Da Police, Make Em Say Uhh, Ruff Ryders Anthem, Insane In The Brain, California Love, Back That Azz Up, Superthug, Hip Hop Hooray, 93 Til Infinity, Dont Sweat The Technique, Dwyck, The Choice Is Yours, Definition, Its All About The Benjamins, Woo Hah!! Got You All In Check, My Name Is, What They Do, I Used To Love H.E.R., Cell Therapy, Mind Playing Tricks On Me, Check The Rhime, Crossover, I Get Around, Fantastic Voyage, They Reminisce Over You, It Was A Good Day, Back In The Day, C.R.E.A.M., Come Clean, U.N.I.T.Y., I Got Cha Opin, Doo Wop, Whatta Man, Get Me Home, Southernplayalisticadillacmuzik, Captain Save A Hoe, Regulate, One Time Gaffled Em Up, Danger, Rebirth Of Slick, Slow Down, R.A.I.D., Whats Up Star, You Cant Play With My Yo-Yo, One More Chance, Ready Or Not, You Know My Steez, Ill Be There For You, O.P.P., Ms Fat Booty, The Most Beautifullest Thing In The World, Nothin But The Cavi Hit, 9th Wonder, Tried By 12, Liquid Swords, Bucktown, Times Up, Tonights Da Night, Put It On, Flow Joe, Getto Jam, I Got 5 On It, Nuthin But A G Thang, Respiration, Crooklyn, Runnin, Po Pimp, Hay, Brother Gonna Work It Out, Ice Cream, The World Is Yours, Proceed, You Never Knew, Mad Izm, Nappy Heads, Bonita Applebum, Keep Ya Head Up, This D.J., Dead Bent, Slam, Baby Got Back, Rump Shaker, Put Your Hands Where My Eyes Is, Keep Their Heads Ringin, Can I Get A...,",
   "isListeningto": false
 
 
@@ -200,8 +201,8 @@
   {
   "genre": "Apple Music 90s",
   "title": "90s Hip-Hop Essentials",
-  "songs": 100,
-  "song titles": "Gin And Juice, Juicy, Hard Knock Life, If I Ruled The World, Doin It, The Rain, What Ya Want, Cant Nobody Hold Me Down, Electric Relaxation, Crush On You, Rosa Parks, Keep On Keepin On, Tonite, Thuggish Ruggish Bone, Shook Ones Pt II, Sound Of Da Police, Make Em Say Uhh, Ruff Ryders Anthem, Insane In The Brain, California Love, Back That Azz Up, Superthug, Hip Hop Hooray, 93 Til Infinity, Dont Sweat The Technique, Dwyck, The Choice Is Yours, Definition, Its All About The Benjamins, Woo Hah!! Got You All In Check, My Name Is, What They Do, I Used To Love H.E.R., Cell Therapy, Mind Playing Tricks On Me, Check The Rhime, Crossover, I Get Around, Fantastic Voyage, They Reminisce Over You, It Was A Good Day, Back In The Day, C.R.E.A.M., Come Clean, U.N.I.T.Y., I Got Cha Opin, Doo Wop, Whatta Man, Get Me Home, Southernplayalisticadillacmuzik, Captain Save A Hoe, Regulate, One Time Gaffled Em Up, Danger, Rebirth Of Slick, Slow Down, R.A.I.D., Whats Up Star, You Cant Play With My Yo-Yo, One More Chance, Ready Or Not, You Know My Steez, Ill Be There For You, O.P.P., Ms Fat Booty, The Most Beautifullest Thing In The World, Nothin But The Cavi Hit, 9th Wonder, Tried By 12, Liquid Swords, Bucktown, Times Up, Tonights Da Night, Put It On, Flow Joe, Getto Jam, I Got 5 On It, Nuthin But A G Thang, Respiration, Crooklyn, Runnin, Po Pimp, Hay, Brother Gonna Work It Out, Ice Cream, The World Is Yours, Proceed, You Never Knew, Mad Izm, Nappy Heads, Bonita Applebum, Keep Ya Head Up, This D.J., Dead Bent, Slam, Baby Got Back, Rump Shaker, Put Your Hands Where My Eyes Is, Keep Their Heads Ringin, Can I Get A...,",
+  "count": 100,
+  "names": "Gin And Juice, Juicy, Hard Knock Life, If I Ruled The World, Doin It, The Rain, What Ya Want, Cant Nobody Hold Me Down, Electric Relaxation, Crush On You, Rosa Parks, Keep On Keepin On, Tonite, Thuggish Ruggish Bone, Shook Ones Pt II, Sound Of Da Police, Make Em Say Uhh, Ruff Ryders Anthem, Insane In The Brain, California Love, Back That Azz Up, Superthug, Hip Hop Hooray, 93 Til Infinity, Dont Sweat The Technique, Dwyck, The Choice Is Yours, Definition, Its All About The Benjamins, Woo Hah!! Got You All In Check, My Name Is, What They Do, I Used To Love H.E.R., Cell Therapy, Mind Playing Tricks On Me, Check The Rhime, Crossover, I Get Around, Fantastic Voyage, They Reminisce Over You, It Was A Good Day, Back In The Day, C.R.E.A.M., Come Clean, U.N.I.T.Y., I Got Cha Opin, Doo Wop, Whatta Man, Get Me Home, Southernplayalisticadillacmuzik, Captain Save A Hoe, Regulate, One Time Gaffled Em Up, Danger, Rebirth Of Slick, Slow Down, R.A.I.D., Whats Up Star, You Cant Play With My Yo-Yo, One More Chance, Ready Or Not, You Know My Steez, Ill Be There For You, O.P.P., Ms Fat Booty, The Most Beautifullest Thing In The World, Nothin But The Cavi Hit, 9th Wonder, Tried By 12, Liquid Swords, Bucktown, Times Up, Tonights Da Night, Put It On, Flow Joe, Getto Jam, I Got 5 On It, Nuthin But A G Thang, Respiration, Crooklyn, Runnin, Po Pimp, Hay, Brother Gonna Work It Out, Ice Cream, The World Is Yours, Proceed, You Never Knew, Mad Izm, Nappy Heads, Bonita Applebum, Keep Ya Head Up, This D.J., Dead Bent, Slam, Baby Got Back, Rump Shaker, Put Your Hands Where My Eyes Is, Keep Their Heads Ringin, Can I Get A...,",
   "isListeningto": true
 
 
@@ -212,8 +213,8 @@
   {"id": 19,
   "genre": "Apple Music Metal",
   "title": "Viking Metal Essentials",
-  "songs": 57,
-  "song titles": "A Fine Day To Die, Kingdom, The Great Heathen Army, Enthroned, Stand Up And Fight, Legions Of The North, Blood Of Heros, Dragons Of The North, Kings Of Metal, Kunnia, Battle Song, Beyond The Dark Sun, Valdr Galga, Saksenland, Towards The Pantheon, Ao Vori, Mother North, Roots Of The Mountain, Gyldis Kind Hefr Aldrei Dvalist A Einumstao, Ukjend Land, Zerfall, Dance Of The Mortal Lust, Inferno, Epochalypse, Steel Versus Steel, One Rode To Asa Bay, Embraced By Fire, Into Glory Ride, Twilight Of The Thunder God, ...Of Forests Unknown..., Ur Aska Och Sot, Otta, Hold The Heathen Hammer High, 793, Offerrok, Battle Metal, Hemfard, Victory Song, Nehalennia, Ad Hoc Revolt, Trollhammaren, Blut Im Auge, The Voyager, Nordland, The Blood And The Iron, Raise Your Horns, Journey To The End, Vinterskugge, Valdogg, Gleipnir, ...As Long As Winds Will Blow..., Vamods Tale, Farsoten Kom, Fela Etter N Far, Cold Runs The River, Crack The Sky, They Came To Die,",
+  "count": 57,
+  "names": "A Fine Day To Die, Kingdom, The Great Heathen Army, Enthroned, Stand Up And Fight, Legions Of The North, Blood Of Heros, Dragons Of The North, Kings Of Metal, Kunnia, Battle Song, Beyond The Dark Sun, Valdr Galga, Saksenland, Towards The Pantheon, Ao Vori, Mother North, Roots Of The Mountain, Gyldis Kind Hefr Aldrei Dvalist A Einumstao, Ukjend Land, Zerfall, Dance Of The Mortal Lust, Inferno, Epochalypse, Steel Versus Steel, One Rode To Asa Bay, Embraced By Fire, Into Glory Ride, Twilight Of The Thunder God, ...Of Forests Unknown..., Ur Aska Och Sot, Otta, Hold The Heathen Hammer High, 793, Offerrok, Battle Metal, Hemfard, Victory Song, Nehalennia, Ad Hoc Revolt, Trollhammaren, Blut Im Auge, The Voyager, Nordland, The Blood And The Iron, Raise Your Horns, Journey To The End, Vinterskugge, Valdogg, Gleipnir, ...As Long As Winds Will Blow..., Vamods Tale, Farsoten Kom, Fela Etter N Far, Cold Runs The River, Crack The Sky, They Came To Die,",
   "isListeningto": false
 
 
@@ -224,8 +225,8 @@
   {
   "genre": "Apple Music Metal",
   "title": "Viking Metal Essentials",
-  "songs": 57,
-  "song titles": "A Fine Day To Die, Kingdom, The Great Heathen Army, Enthroned, Stand Up And Fight, Legions Of The North, Blood Of Heros, Dragons Of The North, Kings Of Metal, Kunnia, Battle Song, Beyond The Dark Sun, Valdr Galga, Saksenland, Towards The Pantheon, Ao Vori, Mother North, Roots Of The Mountain, Gyldis Kind Hefr Aldrei Dvalist A Einumstao, Ukjend Land, Zerfall, Dance Of The Mortal Lust, Inferno, Epochalypse, Steel Versus Steel, One Rode To Asa Bay, Embraced By Fire, Into Glory Ride, Twilight Of The Thunder God, ...Of Forests Unknown..., Ur Aska Och Sot, Otta, Hold The Heathen Hammer High, 793, Offerrok, Battle Metal, Hemfard, Victory Song, Nehalennia, Ad Hoc Revolt, Trollhammaren, Blut Im Auge, The Voyager, Nordland, The Blood And The Iron, Raise Your Horns, Journey To The End, Vinterskugge, Valdogg, Gleipnir, ...As Long As Winds Will Blow..., Vamods Tale, Farsoten Kom, Fela Etter N Far, Cold Runs The River, Crack The Sky, They Came To Die,",
+  "count": 57,
+  "names": "A Fine Day To Die, Kingdom, The Great Heathen Army, Enthroned, Stand Up And Fight, Legions Of The North, Blood Of Heros, Dragons Of The North, Kings Of Metal, Kunnia, Battle Song, Beyond The Dark Sun, Valdr Galga, Saksenland, Towards The Pantheon, Ao Vori, Mother North, Roots Of The Mountain, Gyldis Kind Hefr Aldrei Dvalist A Einumstao, Ukjend Land, Zerfall, Dance Of The Mortal Lust, Inferno, Epochalypse, Steel Versus Steel, One Rode To Asa Bay, Embraced By Fire, Into Glory Ride, Twilight Of The Thunder God, ...Of Forests Unknown..., Ur Aska Och Sot, Otta, Hold The Heathen Hammer High, 793, Offerrok, Battle Metal, Hemfard, Victory Song, Nehalennia, Ad Hoc Revolt, Trollhammaren, Blut Im Auge, The Voyager, Nordland, The Blood And The Iron, Raise Your Horns, Journey To The End, Vinterskugge, Valdogg, Gleipnir, ...As Long As Winds Will Blow..., Vamods Tale, Farsoten Kom, Fela Etter N Far, Cold Runs The River, Crack The Sky, They Came To Die,",
   "isListeningto": true
 
 
@@ -236,8 +237,8 @@
   {
   "genre": "Apple Music Metal",
   "title": "70s Metal Essentials",
-  "songs": 89,
-  "song titles": "Paranoid, Hell Bent For Leather, Don't Fear The Reaper, Kashmir, Schools Out, Back In The Saddle, The Boys Are Back In Town, Man On The Silver Mountain, Smoke On The Water, Fly By Night, Strutter, Im Eighteen, Iron Man, Ride The Sky, The Green Manalishi, Wicked Woman, Working Man, Toys In The Attic, Godzilla Suicide, Motorhead, Lions Christians, The Time Is Right For Love, Highway Star, War Pigs Lukes Wall, Stargazer, Under My Wheels, 21st Century Schizoid Man, Hush, Jailbreak, Doctor Doctor, Victim Of Changes, Always Somewhere, Sweet Leaf, LIghts Out, Cold Gin, In Trance, Mama Kin, Hoochie Koochie Lady, Bomber, Long Live Rock N Roll, Too Hot To Handle, The Wizard, The Ripper, No More Mr. Nice Guy, The Sails Of Charon, Blue My Mind, White Line Fever, Hotter Than Hell, Children Of The Grave, Dead Men Tell No Tales, Career Of Evil, Starlight Starbright, Red, Exciter, Starstruck, Crash Course In Brain Surgery, Welcome To My Nightmare, Immigrant Song, Kingdom Come, Sabbath Bloody Sabbath, Easy Livin, Better By You Better Than Me, Overkill, Guts, Roisin Dubh, God Of Thunder, Im Goin Mad, Rock Bottom, Look At Yourself, Snowblind, Black Cloud, Mean Business, Damage Case Ballad Of Dwight Fry, Death Walks Behind You, Sinner, Seasons Of Wither, Kill The King, When The Wolf Sits, Suicide, Black Sabbath Rocking Man, Larks Tongues In Aspic Pt 1, After The Storm, Atomic Bobms Away, Sunrise, SAd Born Loser, Hell Hound,",
+  "count": 89,
+  "names": "Paranoid, Hell Bent For Leather, Don't Fear The Reaper, Kashmir, Schools Out, Back In The Saddle, The Boys Are Back In Town, Man On The Silver Mountain, Smoke On The Water, Fly By Night, Strutter, Im Eighteen, Iron Man, Ride The Sky, The Green Manalishi, Wicked Woman, Working Man, Toys In The Attic, Godzilla Suicide, Motorhead, Lions Christians, The Time Is Right For Love, Highway Star, War Pigs Lukes Wall, Stargazer, Under My Wheels, 21st Century Schizoid Man, Hush, Jailbreak, Doctor Doctor, Victim Of Changes, Always Somewhere, Sweet Leaf, LIghts Out, Cold Gin, In Trance, Mama Kin, Hoochie Koochie Lady, Bomber, Long Live Rock N Roll, Too Hot To Handle, The Wizard, The Ripper, No More Mr. Nice Guy, The Sails Of Charon, Blue My Mind, White Line Fever, Hotter Than Hell, Children Of The Grave, Dead Men Tell No Tales, Career Of Evil, Starlight Starbright, Red, Exciter, Starstruck, Crash Course In Brain Surgery, Welcome To My Nightmare, Immigrant Song, Kingdom Come, Sabbath Bloody Sabbath, Easy Livin, Better By You Better Than Me, Overkill, Guts, Roisin Dubh, God Of Thunder, Im Goin Mad, Rock Bottom, Look At Yourself, Snowblind, Black Cloud, Mean Business, Damage Case Ballad Of Dwight Fry, Death Walks Behind You, Sinner, Seasons Of Wither, Kill The King, When The Wolf Sits, Suicide, Black Sabbath Rocking Man, Larks Tongues In Aspic Pt 1, After The Storm, Atomic Bobms Away, Sunrise, SAd Born Loser, Hell Hound,",
   "isListeningto": false
 
 
@@ -248,8 +249,8 @@
   {
   "genre": "Apple Music Metal",
   "title": "70s Metal Essentials",
-  "songs": 89,
-  "song titles": "Paranoid, Hell Bent For Leather, Don't Fear The Reaper, Kashmir, Schools Out, Back In The Saddle, The Boys Are Back In Town, Man On The Silver Mountain, Smoke On The Water, Fly By Night, Strutter, Im Eighteen, Iron Man, Ride The Sky, The Green Manalishi, Wicked Woman, Working Man, Toys In The Attic, Godzilla Suicide, Motorhead, Lions Christians, The Time Is Right For Love, Highway Star, War Pigs Lukes Wall, Stargazer, Under My Wheels, 21st Century Schizoid Man, Hush, Jailbreak, Doctor Doctor, Victim Of Changes, Always Somewhere, Sweet Leaf, LIghts Out, Cold Gin, In Trance, Mama Kin, Hoochie Koochie Lady, Bomber, Long Live Rock N Roll, Too Hot To Handle, The Wizard, The Ripper, No More Mr. Nice Guy, The Sails Of Charon, Blue My Mind, White Line Fever, Hotter Than Hell, Children Of The Grave, Dead Men Tell No Tales, Career Of Evil, Starlight Starbright, Red, Exciter, Starstruck, Crash Course In Brain Surgery, Welcome To My Nightmare, Immigrant Song, Kingdom Come, Sabbath Bloody Sabbath, Easy Livin, Better By You Better Than Me, Overkill, Guts, Roisin Dubh, God Of Thunder, Im Goin Mad, Rock Bottom, Look At Yourself, Snowblind, Black Cloud, Mean Business, Damage Case Ballad Of Dwight Fry, Death Walks Behind You, Sinner, Seasons Of Wither, Kill The King, When The Wolf Sits, Suicide, Black Sabbath Rocking Man, Larks Tongues In Aspic Pt 1, After The Storm, Atomic Bobms Away, Sunrise, SAd Born Loser, Hell Hound,",
+  "count": 89,
+  "names": "Paranoid, Hell Bent For Leather, Don't Fear The Reaper, Kashmir, Schools Out, Back In The Saddle, The Boys Are Back In Town, Man On The Silver Mountain, Smoke On The Water, Fly By Night, Strutter, Im Eighteen, Iron Man, Ride The Sky, The Green Manalishi, Wicked Woman, Working Man, Toys In The Attic, Godzilla Suicide, Motorhead, Lions Christians, The Time Is Right For Love, Highway Star, War Pigs Lukes Wall, Stargazer, Under My Wheels, 21st Century Schizoid Man, Hush, Jailbreak, Doctor Doctor, Victim Of Changes, Always Somewhere, Sweet Leaf, LIghts Out, Cold Gin, In Trance, Mama Kin, Hoochie Koochie Lady, Bomber, Long Live Rock N Roll, Too Hot To Handle, The Wizard, The Ripper, No More Mr. Nice Guy, The Sails Of Charon, Blue My Mind, White Line Fever, Hotter Than Hell, Children Of The Grave, Dead Men Tell No Tales, Career Of Evil, Starlight Starbright, Red, Exciter, Starstruck, Crash Course In Brain Surgery, Welcome To My Nightmare, Immigrant Song, Kingdom Come, Sabbath Bloody Sabbath, Easy Livin, Better By You Better Than Me, Overkill, Guts, Roisin Dubh, God Of Thunder, Im Goin Mad, Rock Bottom, Look At Yourself, Snowblind, Black Cloud, Mean Business, Damage Case Ballad Of Dwight Fry, Death Walks Behind You, Sinner, Seasons Of Wither, Kill The King, When The Wolf Sits, Suicide, Black Sabbath Rocking Man, Larks Tongues In Aspic Pt 1, After The Storm, Atomic Bobms Away, Sunrise, SAd Born Loser, Hell Hound,",
   "isListeningto": true
 
 
@@ -260,8 +261,8 @@
   {
   "genre": "Apple Music Oldies",
   "title": "50s R And B Essentials",
-  "songs": 50,
-  "song titles": "Whatd I Say Pts 1 And 2, Blueberry Hill, Hound Dog, Bo Diddley, Fever, I Love You For Sentimental Reasons, The Great Pretender, The Book Of Love, Come Go With Me, Flip Flop And Fly, In The Still Of The Night, Sort Fat Fannie, Try Me, Double Crossing Blues, Let The Four Winds Blow, My Country Man, Tears On My Pillow, Get A Job, When You Dance, Play It Fair, Why Do Fools Fall In Love, Lonely Teardrops, Lawdy Miss Clawdy, Twilight Time, Sea Cruise, Rockin Blues, Its Just A Matter Of Time, 5-10-15 Hours, Dont You Just Know It, Juke, Roll With Me Henry, Serchin, Blue Light Boogie Pt 1 And 2, I Got Loaded, Cupids Boogie, I hear You Knockin, Aint That A Shame, Dont Be Angry, Only You, Sind Me Some Lovin, Ill Be True, Rag Mop, Chica Boo, Anytime Anyplace Anywhere, Drown In My Own Tears, Moodys Mood For Love, Dady Rollin Stone, Im Walkin, The Wind, There Goes My Baby",
+  "count": 50,
+  "names": "Whatd I Say Pts 1 And 2, Blueberry Hill, Hound Dog, Bo Diddley, Fever, I Love You For Sentimental Reasons, The Great Pretender, The Book Of Love, Come Go With Me, Flip Flop And Fly, In The Still Of The Night, Sort Fat Fannie, Try Me, Double Crossing Blues, Let The Four Winds Blow, My Country Man, Tears On My Pillow, Get A Job, When You Dance, Play It Fair, Why Do Fools Fall In Love, Lonely Teardrops, Lawdy Miss Clawdy, Twilight Time, Sea Cruise, Rockin Blues, Its Just A Matter Of Time, 5-10-15 Hours, Dont You Just Know It, Juke, Roll With Me Henry, Serchin, Blue Light Boogie Pt 1 And 2, I Got Loaded, Cupids Boogie, I hear You Knockin, Aint That A Shame, Dont Be Angry, Only You, Sind Me Some Lovin, Ill Be True, Rag Mop, Chica Boo, Anytime Anyplace Anywhere, Drown In My Own Tears, Moodys Mood For Love, Dady Rollin Stone, Im Walkin, The Wind, There Goes My Baby",
   "isListeningto": false
 
 
@@ -273,8 +274,8 @@
   {
   "genre": "Apple Music Oldies",
   "title": "50s R And B Essentials",
-  "songs": 50,
-  "song titles": "Whatd I Say Pts 1 And 2, Blueberry Hill, Hound Dog, Bo Diddley, Fever, I Love You For Sentimental Reasons, The Great Pretender, The Book Of Love, Come Go With Me, Flip Flop And Fly, In The Still Of The Night, Sort Fat Fannie, Try Me, Double Crossing Blues, Let The Four Winds Blow, My Country Man, Tears On My Pillow, Get A Job, When You Dance, Play It Fair, Why Do Fools Fall In Love, Lonely Teardrops, Lawdy Miss Clawdy, Twilight Time, Sea Cruise, Rockin Blues, Its Just A Matter Of Time, 5-10-15 Hours, Dont You Just Know It, Juke, Roll With Me Henry, Serchin, Blue Light Boogie Pt 1 And 2, I Got Loaded, Cupids Boogie, I hear You Knockin, Aint That A Shame, Dont Be Angry, Only You, Sind Me Some Lovin, Ill Be True, Rag Mop, Chica Boo, Anytime Anyplace Anywhere, Drown In My Own Tears, Moodys Mood For Love, Dady Rollin Stone, Im Walkin, The Wind, There Goes My Baby",
+  "count": 50,
+  "names": "Whatd I Say Pts 1 And 2, Blueberry Hill, Hound Dog, Bo Diddley, Fever, I Love You For Sentimental Reasons, The Great Pretender, The Book Of Love, Come Go With Me, Flip Flop And Fly, In The Still Of The Night, Sort Fat Fannie, Try Me, Double Crossing Blues, Let The Four Winds Blow, My Country Man, Tears On My Pillow, Get A Job, When You Dance, Play It Fair, Why Do Fools Fall In Love, Lonely Teardrops, Lawdy Miss Clawdy, Twilight Time, Sea Cruise, Rockin Blues, Its Just A Matter Of Time, 5-10-15 Hours, Dont You Just Know It, Juke, Roll With Me Henry, Serchin, Blue Light Boogie Pt 1 And 2, I Got Loaded, Cupids Boogie, I hear You Knockin, Aint That A Shame, Dont Be Angry, Only You, Sind Me Some Lovin, Ill Be True, Rag Mop, Chica Boo, Anytime Anyplace Anywhere, Drown In My Own Tears, Moodys Mood For Love, Dady Rollin Stone, Im Walkin, The Wind, There Goes My Baby",
   "isListeningto": true
 
 
@@ -286,8 +287,8 @@
   {
   "genre": "Various Artists",
   "title": "The Best Of Sun Rockabilly",
-  "songs": 22,
-  "song titles": "Love My Baby, Red Hot, We Wanna Boobie, Come On Little Mama, Right Behind You Baby, Ubangis Stomp, Lets Bop, Rabbit Action, Put Your Cat Clothes On, Rockin With My Baby, Ten Cats Down, Jamp Right Out Of This Juke, Gonna Romp And Stomp, Domino, Rakin And Scrapin, Slow Down, Red Cadillac And A Black Moustache, Break Up, Greenback Dollar Watch, Red Headed Woman, Flyin Saucers Rock N Roll, Crawdad Song",
+  "count": 22,
+  "names": "Love My Baby, Red Hot, We Wanna Boobie, Come On Little Mama, Right Behind You Baby, Ubangis Stomp, Lets Bop, Rabbit Action, Put Your Cat Clothes On, Rockin With My Baby, Ten Cats Down, Jamp Right Out Of This Juke, Gonna Romp And Stomp, Domino, Rakin And Scrapin, Slow Down, Red Cadillac And A Black Moustache, Break Up, Greenback Dollar Watch, Red Headed Woman, Flyin Saucers Rock N Roll, Crawdad Song",
   "isListeningto": false
 
 
@@ -300,8 +301,8 @@
   {
   "genre": "Various Artists",
   "title": "The Best Of Sun Rockabilly",
-  "songs": 22,
-  "song titles": "Love My Baby, Red Hot, We Wanna Boobie, Come On Little Mama, Right Behind You Baby, Ubangis Stomp, Lets Bop, Rabbit Action, Put Your Cat Clothes On, Rockin With My Baby, Ten Cats Down, Jamp Right Out Of This Juke, Gonna Romp And Stomp, Domino, Rakin And Scrapin, Slow Down, Red Cadillac And A Black Moustache, Break Up, Greenback Dollar Watch, Red Headed Woman, Flyin Saucers Rock N Roll, Crawdad Song",
+  "count": 22,
+  "names": "Love My Baby, Red Hot, We Wanna Boobie, Come On Little Mama, Right Behind You Baby, Ubangis Stomp, Lets Bop, Rabbit Action, Put Your Cat Clothes On, Rockin With My Baby, Ten Cats Down, Jamp Right Out Of This Juke, Gonna Romp And Stomp, Domino, Rakin And Scrapin, Slow Down, Red Cadillac And A Black Moustache, Break Up, Greenback Dollar Watch, Red Headed Woman, Flyin Saucers Rock N Roll, Crawdad Song",
   "isListeningto": true
   }
 
