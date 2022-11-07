@@ -3,6 +3,7 @@ const PlayList = (props) => {
     <div>
       <h1>Meet My Playlist</h1>
       <playlist>{props.text}</playlist>
+      <playlist>{props.text}</playlist>
     </div>
   )
 }
